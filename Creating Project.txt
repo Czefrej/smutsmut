@@ -1,0 +1,13 @@
+Creating Project:
+	-Post info about project:
+		-Skills required
+		-Category of project
+		-Project promotion:
+			-Labels, BackGround color changing on project listings
+		-Salaries options:
+			-Per hour
+			-Project budget range (Negotiations)
+		-Many employees support:
+			Websites like freelancer give possibility to get hire only 1 employee.
+			We can make it able to hire more employees with different skills and offer different salaries.
+			
