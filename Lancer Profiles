@@ -1,0 +1,15 @@
+PROFILES:
+-Profiles similar to FB profiles:
+  -Avatar support
+  -Portfolio (Iframe/Images),with desc
+  -RATING (1-5 scale)
+  -STATS in %
+    -Number of project participated
+      -% of finished
+        -% of on time
+        -repeat hire rate
+  -BADGES
+    -Some badges that proofs user
+- % of profile completion
+  -personal data (adress,email etc.)
+  -veryfication of payment methods (PayPal,Skrill)
